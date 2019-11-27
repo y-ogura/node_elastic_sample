@@ -1,0 +1,14 @@
+{
+  "name": "elastic-sample",
+  "version": "1.0.0",
+  "description": "sample node elasticsearch project.",
+  "author": "小倉 裕一",
+  "private": true,
+  "scripts": {
+    "dev": "node main.js"
+  },
+  "dependencies": {
+    "@elastic/elasticsearch": "^7.4.0",
+    "elasticsearch": "^16.4.0"
+  }
+}
